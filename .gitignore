@@ -7,9 +7,9 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Dados originais e grandes (NÃO subir o Excel original)
-#data/raw/*.xlsx
-#*.xlsx
-#*.xls
+data/raw/*.xlsx
+*.xlsx
+*.xls
 
 # Arquivos gerados pelo Power BI
 *.pbix.backup

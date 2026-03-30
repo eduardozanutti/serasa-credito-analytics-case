@@ -12,9 +12,9 @@ data/raw/*.xlsx
 *.xls
 
 # Arquivos gerados pelo Power BI
-#*.pbix.backup
-#*.pbix.~lock
-#*.pbix
+*.pbix.backup
+*.pbix.~lock
+*.pbix
 
 # Ambientes virtuais
 .env
